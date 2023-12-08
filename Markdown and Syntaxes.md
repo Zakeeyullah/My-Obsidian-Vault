@@ -195,7 +195,7 @@ end
 
 > - The above mermaid code snippet will generate the below diagram
 > 
-> 
+> ![Mermaid Diagram](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Images/Mermaid%20Diagram.png)
 > - Here the `title` is not required and in the subgraph `direction TB` unless if you want to change.
 > - While the term `flowchart` is mandatory `LR` is not unless if you want to change the default.
 > - There are a lot more options and styles in formatting flowcharts. Refer documentations.
@@ -220,4 +220,4 @@ $$\text{Text Here} = 2 + {\frac{3}{\text{Text Here}}} - 5 * 100 / 6$$
 
 > - This is a result of the above Syntaxes for further assistance refer the Documentation.
 > 
-> 
+> ![MathJax](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Images/MathJax.png)
