@@ -161,7 +161,7 @@ Link to a Block | `[[File Name OR File Path^BLOCK-ID]]`
 > - If you want to link to a heading or block within the current page. Use `![[#]]` & `![[^]]`.
 > - Once you type in `#` you will get a popup to choose from available headings to link and `^` for blocks.
 > - You can link to or embed images, videos and documents using relevant links
-> - Check [Highlights](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights), [Task Lists](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task+lists), [Footnotes](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Footnotes) and also don't miss [Callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) and [YouTube Embeds](https://help.obsidian.md/Editing+and+formatting/Embedding+web+pages#Embed+a+YouTube+video)
+> - Check [Highlights](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Bold%2C+italics%2C+highlights), [Task Lists](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Task+lists), [Footnotes](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Footnotes) and also don't miss [Callouts](https://help.obsidian.md/Editing+and+formatting/Callouts), [YouTube Embeds](https://help.obsidian.md/Editing+and+formatting/Embedding+web+pages#Embed+a+YouTube+video) and [Canvas](https://youtu.be/eHI-Szjpafk?si=ff2xdmivUVOESRa7)
 
 **Diagrams in your Notes**
 
@@ -221,7 +221,3 @@ $$\text{Text Here} = 2 + {\frac{3}{\text{Text Here}}} - 5 * 100 / 6$$
 > - This is a result of the above Syntaxes for further assistance refer the Documentation.
 > 
 > ![MathJax](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Images/MathJax.png)
-
-**Obsidian Canvas**
-
-![](https://youtu.be/eHI-Szjpafk?si=ff2xdmivUVOESRa7)
