@@ -24,7 +24,7 @@ Vault without an Obsidian Account stores data locally | Obsidian Sync is not fre
 
 ## Why your Setup?
 
-This is a good question. You might wonder why you should use my setup. Fair enough. The best thing is I have found a way to organize my notes and also a way to navigate back and forth. This took me a lot of time to build. I hope this will be a huge time saver for you in setting up your Obsidian Vault. You can alter it.
+This is a good question. You might wonder why you should use my setup. Fair enough. The best thing is I have found a way to organize my notes and also a way to **navigate back and forth**. This took me a lot of time to build. I hope this will be a huge time saver for you in setting up your Obsidian Vault. You can alter it.
 
 ## Backup and Sync
 
