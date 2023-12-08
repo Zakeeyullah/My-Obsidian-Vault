@@ -23,7 +23,7 @@ Vault without an Obsidian Account stores data locally | Obsidian Sync is not fre
 
 ---
 
-[Markdown and Syntaxes](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Markdown%20and%20Syntaxes.md) | 
+[Markdown and Syntaxes](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Markdown%20and%20Syntaxes.md) | [Plugins](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Plugins.md)
 
 ---
 
