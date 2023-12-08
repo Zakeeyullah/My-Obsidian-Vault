@@ -11,3 +11,5 @@ Ability to extend functionalities using external plugins | You might not find pl
 Themes, Custom CSS, and Settings for look & feel | Lack of technical knowledge can limit you
 [Documentation](https://help.obsidian.md/Home) and [Forum](https://forum.obsidian.md/) to help you customize | Might take some time to set it the way you want
 Vault without an Obsidian Account stores data locally | Obsidian Sync is not free; No inbuilt backup option
+
+[Markdown and Syntaxes](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Markdown%20and%20Syntaxes.md) | 
