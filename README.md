@@ -6,7 +6,12 @@
 
 ---
 
-> - **You can download the sample vault of mine from this Repository**
+> **You can download the sample vault of mine from this Repository**
+> - Download the `Sample Vault.zip` file and then unzip it.
+> - Open the folder as an Obsidian Vault.
+> - Accept the warning for the community plugin.
+> - Close the app and re open it again.
+> - Now you can browse the Sample Vault. 
 
 Advantages | Disadvantages
 --|--
