@@ -59,7 +59,7 @@ This is a Gray text color block
 
 - The above code snippets will generate the below Color Blocks
 
-![](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Color%20Block.png)
+<p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Color%20Block.png></p>
 
 ### Image
 
@@ -67,7 +67,7 @@ This is a Gray text color block
 ![[bank.svg|grid|200]]![[Venn Diagram 3.svg|grid|200]]![[Shaykh Nurjan Mirahmadi.png|grid|200]] 
 ```
 
-![](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG1.png)
+<p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG1.png></p>
 
 ---
 
@@ -80,7 +80,7 @@ This is a Gray text color block
 
 ```
 
-![](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG2.png)
+<p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG2.png></p>
 
 ---
 
@@ -93,4 +93,4 @@ This is a Gray text color block
  **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 ```
 
-![](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG3.png)
+<p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/IMG3.png></p>
