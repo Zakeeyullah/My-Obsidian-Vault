@@ -2,11 +2,16 @@
 
 [Obsidian](https://obsidian.md/) is a great software for note-taking and knowledge management but it might be not that easy to set it up in a way that it works for you. I had to spend a lot of time in learning and applying different things in my obsidian vault finally I got a better way for me to manage notes in it. I hope this might be helpful for ones who prefer the obsidian setup similar to of mine. This will be a guide on how to use Obsidian and my Vault.
 
-![|100%](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Sample%20Vault.gif)
+<p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Sample%20Vault.gif></p>
 
 ---
 
-> - **You can download the sample vault of mine from this Repository**
+> **You can download the sample vault of mine from this Repository**
+> - Download the `Sample Vault.zip` file and then unzip it.
+> - Open the folder as an Obsidian Vault.
+> - Accept the warning for the community plugin.
+> - Close the app and re open it again.
+> - Now you can browse the Sample Vault. 
 
 Advantages | Disadvantages
 --|--
@@ -18,7 +23,7 @@ Vault without an Obsidian Account stores data locally | Obsidian Sync is not fre
 
 ---
 
-[Markdown and Syntaxes](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Markdown%20and%20Syntaxes.md) | 
+[Markdown and Syntaxes](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Markdown%20and%20Syntaxes.md) | [Plugins](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Plugins.md) | [Basic Vault Structure](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Basic%20Vault%20Structure.md) | 
 
 ---
 
