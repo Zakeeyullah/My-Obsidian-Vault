@@ -4,6 +4,7 @@
 
 <p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Sample%20Vault.gif></p>
 <p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Vault.png></p>
+
 ---
 
 > **You can download the sample vault of mine from this Repository**
