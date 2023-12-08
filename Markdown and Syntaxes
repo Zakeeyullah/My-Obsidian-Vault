@@ -1,4 +1,4 @@
-## Markdown Syntax
+# Markdown Syntax
 
 Markdown is a lightweight markup language that uses simple and easy-to-read text formatting syntax. It's designed to be human-readable and can be converted into HTML or other rich text formats. Markdown is commonly used for writing content for the web, including documentation, note-taking, messaging, and more. First we will discuss some [[#General Markdown Syntax]] and then we will discuss some of [[#Obsidian Specific Markdown Syntax|Obsidian Specific]].
 
