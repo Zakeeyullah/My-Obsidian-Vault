@@ -221,3 +221,7 @@ $$\text{Text Here} = 2 + {\frac{3}{\text{Text Here}}} - 5 * 100 / 6$$
 > - This is a result of the above Syntaxes for further assistance refer the Documentation.
 > 
 > ![MathJax](https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Images/MathJax.png)
+
+**Obsidian Canvas**
+
+![](https://youtu.be/eHI-Szjpafk?si=ff2xdmivUVOESRa7)
