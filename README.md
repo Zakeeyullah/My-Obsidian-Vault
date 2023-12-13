@@ -6,6 +6,8 @@
 > - I have put this guide initially inside the Sample Vault for easy access for the users.
 > - But the Guide inside the Obsidian Vault will not be updated. So it will better if you refer here on Github.
 
+---
+
 <p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Vault.png></p>
 
 ---
