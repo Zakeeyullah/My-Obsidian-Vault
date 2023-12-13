@@ -2,6 +2,8 @@
 
 [Obsidian](https://obsidian.md/) is a great software for note-taking and knowledge management but it might not be that easy to set it up in a way that it works for you. I had to spend a lot of time in learning and applying different things in my obsidian vault finally I got a better way for me to manage notes in it. I hope this might be helpful for ones who prefer the obsidian setup similar to of mine. This will be a guide on how to use Obsidian and my Vault.
 
+> - NOTE: The Guide inside the Obsidian Vault will not be updated. So it will better if you refer it here on Github.
+
 <p align=center><img src=https://github.com/zak-admin/My-Obsidian-Vault/blob/main/Media/Vault.png></p>
 
 ---
