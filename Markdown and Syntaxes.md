@@ -100,9 +100,9 @@ This is a Bash Script code block
 **Tables**:
 
 ```
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Content 1| Content 2|
+Column 01 | Column 02 | Column 03
+--|--:|:--:
+I am Aligned Left | I am Aligned Right | I am Aligned Center
 ```
 
 **Escaping Characters**:
